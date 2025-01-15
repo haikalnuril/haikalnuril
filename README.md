@@ -2,7 +2,7 @@
 <h3 align="center">A Website developer Enthusiast</h3>
 
 ## 🌐 Socials:
-[![](https://visitcount.itsvg.in/api?id=haikalnuril&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrianFaviansa&label=Profile%20views&color=00FF00&style=for-the-badge" alt="BrianFaviansa" /> </p> 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haikalnuril_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haikalnuril) 
 
 # 💻 Tech Stack:
